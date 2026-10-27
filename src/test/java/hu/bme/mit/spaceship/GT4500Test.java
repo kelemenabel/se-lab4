@@ -35,4 +35,22 @@ class GT4500Test {
         // Assert
         assertEquals(true, result);
     }
+
+    @Test
+    void fireLaser_Single_Fail() {
+        // Act
+        boolean result = ship.fireLaser(FiringMode.SINGLE);
+
+        // Assert
+        assertEquals(false, result);
+    }
+
+    @Test
+    void fireLaser_All_Fail() {
+        // Act
+        boolean result = ship.fireLaser(FiringMode.ALL);
+
+        // Assert
+        assertEquals(false, result);
+    }
 }
