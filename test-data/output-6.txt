@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO (both fired)
+FAIL     # <- TORPEDO (both empty now)

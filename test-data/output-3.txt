@@ -1,0 +1,4 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO (primary)
+SUCCESS  # <- TORPEDO (primary again because secondary is empty)
+FAIL     # <- TORPEDO (both empty)

@@ -1,0 +1,4 @@
+# ALL mode with both stores having 1 torpedo
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL
