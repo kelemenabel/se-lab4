@@ -1,0 +1,5 @@
+# Alternating firing: primary -> secondary -> both empty
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

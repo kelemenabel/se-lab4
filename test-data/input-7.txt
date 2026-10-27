@@ -1,0 +1,3 @@
+# ALL mode with primary empty, secondary has 1 torpedo
+GT4500,0,0,1,0
+TORPEDO,ALL
